@@ -1,6 +1,6 @@
 {
   "name": "muhammadzaeemaltaf_atm_machine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript project for checking balance and making withdrawals via command line interface. Securely manage your funds with ease!",
   "main": "main.js",
   "type": "module",
